@@ -6,4 +6,5 @@
 - 🤔 I’m looking for help with data analysis, after-sales partners and other related themes
 - 💬 Ask me about entrepreneurship, sales, after sales, CX
 - 📫 How to reach me:
-- [![Email Badge](https://img.shields.io)](mailto:nmarchioni@hotmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&
+logo=gmail&logoColor=blue)](mailto:nmarchioni@gmail.com)

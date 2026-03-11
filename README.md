@@ -1,5 +1,5 @@
-## Hi there, I'm Newton! 👋
-- 
+## Hi there, I'm Newton! 👋  
+  
 - 🔭 I’m currently working on After-Sales Services and Customer Experience
 - 🌱 I’m currently learning Systems Development, Python, JavaScript, HTML and CSS
 - 👯 I’m looking to collaborate on CX projects

@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**NewtonMarchioni/NewtonMarchioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there, I'm Newton! 👋
 
 - 🔭 I’m currently working on After-Sales Services and Customer Experience
 - 🌱 I’m currently learning Systems Development, Python, JavaScript, HTML and CSS

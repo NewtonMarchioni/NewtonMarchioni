@@ -7,4 +7,4 @@
 - 💬 Ask me about entrepreneurship, sales, after sales, CX
 - 📫 How to reach me:  
 
-[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nmarchioni@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nmarchioni@hotmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/newton-marchioni-81b2b6a6/)  
